@@ -1,0 +1,33 @@
+body {
+   font-family: Arial,sans-sprif;
+   background-color: white#f2f2f2;
+   color: black#333;
+   margin: 0;
+   padding: 0;
+}
+header{
+   background-color: black#333;
+   padding: 20px;
+   color: white#fff;
+}
+nav ul{
+   list-style-type:none;
+   margin: 0;
+   padding: 0;
+}
+nav li{ 
+   display: inline;
+   margin-right: 10px;
+}
+nav a {
+   color: black#333;
+   text-decoration: none;
+   padding: 5px 10px;
+}
+nav a:hover{
+   background-color: black#333;
+   color: white#fff;
+}
+main {
+   margin: 20px;
+}
