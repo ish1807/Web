@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>My Sample Webpage</title>
+   <link rel="stylesheet" type="text/css" href="s.css">
+</head>
+<body>
+   <header>
+     <h1>WELCOME</h1>
+   </header>
+   <nav>
+     <ul>
+        <li><a href="#">Home</a></li>
+	<li><a href="#">About</a></li>
+	<li><a href="#">Contact</a></li>
+     </ul>
+   </nav>
+<main>
+   <section>
+     <h2>About Me</h2>
+     <p>Hi! My name is Iswarya Sai.</p>
+     <p>I want to be a web developer</p>
+   </section>
+   <section>
+     <h2>Contact Me</h2>
+     <p>Email: asdf@gmail.com</p>
+     <p>Phone: 123456789</p>
+   </section>
+   <section>
+      <p>The task 2 is to improve the previous page with css</p>
+      <p>In this updated version, I've added styles to:
+         Set a background color and text color for the body.
+         Add padding and a border radius to the sections to give them a card-like appearance.
+         Apply a box shadow to the sections for a subtle elevation effect.
+         These additional styles should enhance the visual appeal of the webpage and make it more attractive. </p>
+   </section>
+</main>
+<footer>
+   <p>&copy; 2024 My Webpage. All rights reserved.</p>
+</footer>
+</body>
+</html>
+     
